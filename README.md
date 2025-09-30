@@ -7,3 +7,6 @@ The dataset used is `titanic_survival_data.csv`, sourced from [OpenML: Titanic](
 To view the visualizations:  
 1. Open the file `titanic_survival_power_bi_visualisation` in **Power BI**.  
 2. Enable **R script visuals** to run the R scripts embedded in the report.
+
+
+The image power_bi_visualisation_screenshot.png shows the visualizations performed in Power BI.
